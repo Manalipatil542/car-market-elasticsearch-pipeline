@@ -1,0 +1,522 @@
+Brand,Model,Year,MilesDriven,Price,EMI,City,State
+Nissan,Versa Note S Plus,2017,"78,664","$12,689 ",294,Abington,MA
+Buick,Envision Premium AWD,2020,"16,107","$32,488 ",719,Medway,MA
+Nissan,Rogue S AWD,2020,"30,648","$22,424 ",496,Brockton,MA
+Lincoln,Continental Reserve AWD,2017,"41,252","$28,381 ",657,Abington,MA
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Northborough,MA
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Westminster,VT
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Westminster,VT
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Westminster,VT
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Middletown,RI
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Warwick,RI
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Nashua,NH
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Abington,MA
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Salem,NH
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Seekonk,MA
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Beverly,MA
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Westborough,MA
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Framingham,MA
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Wakefield,MA
+Ford,Escape SE AWD,2020,"99,767","$18,999 ",420,Abington,MA
+Jeep,Grand Cherokee Limited 4WD,2020,"19,418","$34,500 ",763,Northborough,MA
+INFINITI,Q70 3.7 Luxe AWD,2019,"42,953","$31,297 ",691,Westminster,VT
+Chevrolet,Silverado 1500 LT Double Cab 4WD,2020,"10,082","$40,550 ",897,Westminster,VT
+Lincoln,Continental Reserve AWD,2017,"41,252","$28,381 ",657,Westminster,VT
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Middletown,RI
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Warwick,RI
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Nashua,NH
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Abington,MA
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Salem,NH
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Seekonk,MA
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Beverly,MA
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Westborough,MA
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Greenfield,MA
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Hartford,CT
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Salisbury,MA
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Nashua,NH
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Mendon,MA
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Northborough,MA
+Jeep,Grand Cherokee Limited 4WD,2021,"8,140","$40,475 ",889,Westminster,VT
+GMC,Terrain SLT,2019,"32,352","$27,825 ",615,Westminster,VT
+Ford,Explorer XLT AWD,2020,"35,969","$34,421 ",761,Westminster,VT
+Nissan,Altima 2.5 SL AWD,2022,"9,675","$30,467 ",667,Middletown,RI
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Warwick,RI
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Nashua,NH
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Abington,MA
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Salem,NH
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Seekonk,MA
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Beverly,MA
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Westborough,MA
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Acton,MA
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Lancaster,MA
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Stratham,NH
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Nashua,NH
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Belmont,MA
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Mendon,MA
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Northborough,MA
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Westminster,VT
+Toyota,Highlander XLE AWD,2021,"32,922","$38,995 ",856,Westminster,VT
+Honda,CR-V EX-L AWD,2019,"29,887","$30,294 ",669,Westminster,VT
+Volkswagen,Golf Alltrack SE 4Motion AWD,2017,"43,260","$23,787 ",551,Middletown,RI
+Toyota,RAV4 XLE Premium AWD,2021,"25,611","$35,200 ",773,Warwick,RI
+Subaru,Forester 2.5i AWD,2020,"42,465","$24,912 ",551,Nashua,NH
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Abington,MA
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Salem,NH
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Seekonk,MA
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Beverly,MA
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Westborough,MA
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Auburn,MA
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Somerset,MA
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Mendon,MA
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Northborough,MA
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Westminster,VT
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Westminster,VT
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Westminster,VT
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Middletown,RI
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Warwick,RI
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Nashua,NH
+Toyota,Tacoma TRD Sport Double Cab 4WD,2020,"41,129","$39,450 ",872,Abington,MA
+Toyota,RAV4 Limited AWD,2015,"108,486","$17,548 ",406,Salem,NH
+Jeep,Grand Cherokee Altitude 4WD,2020,"22,415","$35,985 ",796,Seekonk,MA
+Subaru,Forester 2.5i Premium,2018,"77,106","$21,575 ",488,Beverly,MA
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Westborough,MA
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Berlin,CT
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Nashua,NH
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Norwood,MA
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Chelmsford,MA
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Mendon,MA
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Northborough,MA
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Westminster,VT
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Westminster,VT
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Westminster,VT
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Middletown,RI
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Warwick,RI
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Nashua,NH
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Abington,MA
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Salem,NH
+Kia,Soul + FWD,2019,"117,725","$13,994 ",309,Seekonk,MA
+Land,Rover Range Rover Evoque P250 SE AWD,2020,"16,201","$41,216 ",911,Beverly,MA
+Kia,Soul LX FWD,2020,"25,304","$19,777 ",438,Westborough,MA
+Nissan,LEAF S FWD,2019,"14,588","$19,998 ",442,Wellesley,MA
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Plymouth,MA
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Abington,MA
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Mendon,MA
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Northborough,MA
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Westminster,VT
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Westminster,VT
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Westminster,VT
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Middletown,RI
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Warwick,RI
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Nashua,NH
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Abington,MA
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Salem,NH
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Seekonk,MA
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Beverly,MA
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Westborough,MA
+Mazda,CX-9 Grand Touring AWD,2021,"28,051","$36,495 ",801,Norwood,MA
+Ford,Mustang GT Premium Coupe RWD,2021,"18,622","$44,661 ",981,Somerset,MA
+Hyundai,Elantra SEL FWD,2020,"20,350","$19,910 ",441,Bridgewater,MA
+Audi,Q5 2.0 TFSI quattro Premium Plus AWD,2018,"78,721","$25,861 ",585,Mendon,MA
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Northborough,MA
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Westminster,VT
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Westminster,VT
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Westminster,VT
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Middletown,RI
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Warwick,RI
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Nashua,NH
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Abington,MA
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Salem,NH
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Seekonk,MA
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Beverly,MA
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Westborough,MA
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Manchester,NH
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Abington,MA
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Norwood,MA
+Kia,Soul LX FWD,2020,"25,304","$19,777 ",438,Mendon,MA
+Nissan,Rogue SL AWD,2023,"6,507","$37,650 ",808,Northborough,MA
+Subaru,Outback Premium AWD,2020,"25,806","$27,998 ",619,Westminster,VT
+GMC,Sierra 1500 SLE Double Cab 4WD,2014,"83,687","$22,995 ",532,Westminster,VT
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Westminster,VT
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Middletown,RI
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Warwick,RI
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Nashua,NH
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Abington,MA
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Salem,NH
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Seekonk,MA
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Beverly,MA
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Westborough,MA
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Newington,NH
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Danvers,MA
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Milford,MA
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Everett,MA
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Mendon,MA
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Northborough,MA
+Ford,Explorer XLT AWD,2020,"34,872","$33,208 ",734,Westminster,VT
+Jeep,Cherokee Limited 4WD,2019,"29,565","$27,857 ",615,Westminster,VT
+Honda,HR-V LX AWD,2021,"33,689","$23,899 ",525,Westminster,VT
+Kia,Optima SX Turbo FWD,2020,"26,385","$25,900 ",573,Middletown,RI
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Warwick,RI
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Nashua,NH
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Abington,MA
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Salem,NH
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Seekonk,MA
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Beverly,MA
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Westborough,MA
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Tyngsboro,MA
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Manchester,NH
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Mendon,MA
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Northborough,MA
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Westminster,VT
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Westminster,VT
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Westminster,VT
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Middletown,RI
+Subaru,Impreza 2.0i Hatchback AWD,2020,"21,535","$22,675 ",502,Warwick,RI
+Honda,HR-V EX AWD,2021,"47,414","$25,487 ",560,Nashua,NH
+Toyota,RAV4 XLE AWD,2021,"13,549","$33,977 ",746,Abington,MA
+Jeep,Grand Cherokee Limited 4WD,2020,"29,226","$34,899 ",772,Salem,NH
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Seekonk,MA
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Beverly,MA
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Westborough,MA
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Tewksbury,MA
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Stratham,NH
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Wellesley,MA
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Warwick,RI
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Mendon,MA
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Northborough,MA
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Westminster,VT
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Westminster,VT
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Westminster,VT
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Middletown,RI
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Warwick,RI
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Nashua,NH
+Jeep,Grand Cherokee Laredo E 4WD,2021,"50,061","$30,798 ",676,Abington,MA
+Subaru,Legacy 2.5i Limited AWD,2011,"69,430","$11,218 ",260,Salem,NH
+Subaru,Outback 3.6R Limited,2013,"102,840","$14,429 ",334,Seekonk,MA
+Jeep,Wrangler Unlimited Sahara 4WD,2016,"61,481","$27,490 ",636,Beverly,MA
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Westborough,MA
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Danvers,MA
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Somersworth,NH
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Taunton,MA
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Norwood,MA
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Mendon,MA
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Northborough,MA
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Westminster,VT
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Westminster,VT
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Westminster,VT
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Middletown,RI
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Warwick,RI
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Nashua,NH
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Abington,MA
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Salem,NH
+Jeep,Cherokee Limited 4WD,2019,"81,462","$23,316 ",515,Seekonk,MA
+Subaru,Forester Premium Crossover AWD,2022,"39,542","$27,987 ",613,Beverly,MA
+Honda,Civic EX-L Sedan FWD,2020,"14,708","$26,372 ",583,Westborough,MA
+Mercedes-Benz,C-Class C 300 4MATIC Cabriolet AWD,2019,"42,483","$41,022 ",906,Columbia,CT
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Brockton,MA
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Wellesley,MA
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Abington,MA
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Mendon,MA
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Northborough,MA
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Westminster,VT
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Westminster,VT
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Westminster,VT
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Middletown,RI
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Warwick,RI
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Nashua,NH
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Abington,MA
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Salem,NH
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Seekonk,MA
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Beverly,MA
+GMC,Sierra 1500 Denali Crew Cab 4WD,2019,"69,990","$46,200 ","1,020",Westborough,MA
+Ford,F-150 XLT SuperCrew 4WD,2020,"59,509","$35,995 ",796,Norwood,MA
+Jeep,Patriot Limited 4WD,2014,"117,122","$10,795 ",250,Northborough,MA
+Jeep,Wrangler,2020,"30,673","$39,988 ",884,Mendon,MA
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Northborough,MA
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Westminster,VT
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Westminster,VT
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Westminster,VT
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Middletown,RI
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Warwick,RI
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Nashua,NH
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Abington,MA
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Salem,NH
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Seekonk,MA
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Beverly,MA
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Westborough,MA
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Framingham,MA
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Bellingham,MA
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Pawtucket,RI
+Subaru,WRX STI AWD,2021,"14,923","$42,000 ",922,Mendon,MA
+RAM,1500 Sport Crew Cab 4WD,2017,"43,554","$36,924 ",854,Northborough,MA
+Honda,Civic EX-L Sedan FWD,2020,"14,708","$26,372 ",583,Westminster,VT
+Porsche,Macan S AWD,2020,"33,770","$52,631 ","1,164",Westminster,VT
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Westminster,VT
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Middletown,RI
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Warwick,RI
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Nashua,NH
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Abington,MA
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Salem,NH
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Seekonk,MA
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Beverly,MA
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Westborough,MA
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Columbia,CT
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Plymouth,MA
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Manchester,CT
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Belmont,MA
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Mendon,MA
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Northborough,MA
+Jeep,Wrangler Unlimited Rubicon 4WD,2020,"28,276","$48,488 ","1,072",Westminster,VT
+BMW,M8 Competition Convertible AWD,2023,"2,824","$132,988 ","2,851",Westminster,VT
+Lexus,NX 300 AWD,2018,"75,811","$28,999 ",656,Westminster,VT
+Subaru,Forester 2.5i AWD,2020,"40,636","$24,575 ",544,Middletown,RI
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Warwick,RI
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Nashua,NH
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Abington,MA
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Salem,NH
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Seekonk,MA
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Beverly,MA
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Westborough,MA
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Stratham,NH
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Framingham,MA
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Mendon,MA
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Northborough,MA
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Westminster,VT
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Westminster,VT
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Westminster,VT
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Middletown,RI
+Honda,CR-V Hybrid Touring AWD,2020,"38,738","$34,900 ",772,Warwick,RI
+Chevrolet,Equinox 2.0T Premier AWD,2020,"31,745","$29,000 ",641,Nashua,NH
+Chevrolet,Sonic LT Sedan FWD,2014,"97,371","$8,950 ",207,Abington,MA
+Kia,Sorento LX AWD,2017,"106,519","$15,995 ",370,Salem,NH
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Seekonk,MA
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Beverly,MA
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Westborough,MA
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Somersworth,NH
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Rochester,NH
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Framingham,MA
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Mendon,MA
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Northborough,MA
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Westminster,VT
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Westminster,VT
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Westminster,VT
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Middletown,RI
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Warwick,RI
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Nashua,NH
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Abington,MA
+Toyota,RAV4 Hybrid XLE AWD,2020,"42,765","$34,000 ",752,Salem,NH
+Hyundai,Santa Fe SEL AWD,2023,"8,254","$32,544 ",698,Seekonk,MA
+Nissan,Rogue Sport SV AWD,2019,"46,540","$18,990 ",420,Beverly,MA
+Subaru,Legacy 2.5i Premium AWD,2020,"40,096","$24,237 ",536,Westborough,MA
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Nashua,NH
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Brockton,MA
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Granby,CT
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Wakefield,MA
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Mendon,MA
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Northborough,MA
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Westminster,VT
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Westminster,VT
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Westminster,VT
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Middletown,RI
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Warwick,RI
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Nashua,NH
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Abington,MA
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Salem,NH
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Seekonk,MA
+Honda,CR-V Hybrid Touring AWD,2020,"38,738","$34,900 ",772,Beverly,MA
+Ford,F-150 XLT SuperCrew 4WD,2020,"56,221","$37,487 ",829,Westborough,MA
+Nissan,Rogue SV AWD,2020,"38,981","$24,395 ",540,Stratham,NH
+Honda,Passport Sport AWD,2019,"47,458","$28,500 ",630,Framingham,MA
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Mendon,MA
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Northborough,MA
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Westminster,VT
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Westminster,VT
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Westminster,VT
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Middletown,RI
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Warwick,RI
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Nashua,NH
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Abington,MA
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Salem,NH
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Seekonk,MA
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Beverly,MA
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Westborough,MA
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Willimantic,CT
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Mansfield,MA
+Honda,Accord 1.5T LX FWD,2018,"83,600","$20,995 ",475,Seekonk,MA
+RAM,1500 Express Quad Cab 4WD,2017,"91,699","$24,995 ",578,Mendon,MA
+Nissan,Rogue SL AWD,2020,"18,862","$28,500 ",630,Northborough,MA
+Honda,Passport Sport AWD,2019,"47,458","$28,500 ",630,Westminster,VT
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Westminster,VT
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Westminster,VT
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Middletown,RI
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Warwick,RI
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Nashua,NH
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Abington,MA
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Salem,NH
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Seekonk,MA
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Beverly,MA
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Westborough,MA
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Worcester,MA
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Niantic,CT
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Revere,MA
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Mendon,MA
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Northborough,MA
+Kia,K5 EX FWD,2021,"11,564","$29,795 ",654,Westminster,VT
+Jeep,Cherokee Latitude Plus 4WD,2021,"16,696","$29,924 ",657,Westminster,VT
+Subaru,Forester 2.5i Premium,2015,"128,146","$12,000 ",278,Westminster,VT
+Honda,Accord 1.5T Sport FWD,2020,"31,780","$26,950 ",596,Middletown,RI
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Warwick,RI
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Nashua,NH
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Abington,MA
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Salem,NH
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Seekonk,MA
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Beverly,MA
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Westborough,MA
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Wilmington,MA
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Haverhill,MA
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Taunton,MA
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Plymouth,MA
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Mendon,MA
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Northborough,MA
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Westminster,VT
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Westminster,VT
+Ford,Explorer XLT AWD,2022,"3,874","$45,839 ","1,003",Westminster,VT
+Nissan,Altima 2.5 SR AWD,2022,"6,193","$26,999 ",591,Middletown,RI
+Nissan,NV200 S FWD,2020,"62,164","$24,500 ",542,Warwick,RI
+Hyundai,Elantra Value Edition FWD,2020,"19,462","$20,488 ",453,Nashua,NH
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Abington,MA
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Salem,NH
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Seekonk,MA
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Beverly,MA
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Westborough,MA
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Somerset,MA
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Meredith,NH
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Greenfield,MA
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Chelmsford,MA
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Mendon,MA
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Northborough,MA
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Westminster,VT
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Westminster,VT
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Westminster,VT
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Middletown,RI
+Jeep,Compass Latitude 4WD,2017,"89,596","$17,792 ",412,Warwick,RI
+GMC,Sierra 1500 Limited Denali Crew Cab 4WD,2022,"25,596","$60,669 ","1,327",Nashua,NH
+Hyundai,Santa Fe 2.4L SEL AWD,2020,"18,296","$27,988 ",619,Abington,MA
+Nissan,Rogue SL AWD,2021,"27,978","$31,558 ",693,Salem,NH
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Seekonk,MA
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Beverly,MA
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Westborough,MA
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Plymouth,MA
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Brockton,MA
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Plymouth,MA
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Mendon,MA
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Northborough,MA
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Westminster,VT
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Westminster,VT
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Westminster,VT
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Middletown,RI
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Warwick,RI
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Nashua,NH
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Abington,MA
+Jeep,Cherokee Trailhawk 4WD,2014,"114,613","$15,499 ",359,Salem,NH
+Nissan,Rogue Platinum AWD,2023,"4,203","$39,010 ",837,Seekonk,MA
+Ford,Explorer XLT AWD,2020,"51,459","$32,991 ",730,Beverly,MA
+Toyota,Tacoma Double Cab V6 SR 4WD,2016,"164,804","$23,000 ",532,Westborough,MA
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Rochester,NH
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Everett,MA
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Greenfield,MA
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Mendon,MA
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Northborough,MA
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Westminster,VT
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Westminster,VT
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Westminster,VT
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Middletown,RI
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Warwick,RI
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Nashua,NH
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Abington,MA
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Salem,NH
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Seekonk,MA
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Beverly,MA
+Chevrolet,Tahoe LS 4WD,2018,"42,690","$38,669 ",874,Westborough,MA
+Volkswagen,Beetle Wolfsburg Edition,2016,"77,689","$14,500 ",336,Dudley,MA
+Nissan,Rogue SL AWD,2019,"62,759","$24,790 ",548,Swansea,MA
+Jeep,Compass Latitude 4WD,2019,"40,904","$22,888 ",506,Mendon,MA
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Northborough,MA
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Westminster,VT
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Westminster,VT
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Westminster,VT
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Middletown,RI
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Warwick,RI
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Nashua,NH
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Abington,MA
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Salem,NH
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Seekonk,MA
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Beverly,MA
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Westborough,MA
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Tyngsboro,MA
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Stratham,NH
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Bridgewater,MA
+Subaru,Outback 2.5i Limited AWD,2019,"31,997","$27,998 ",619,Tewksbury,MA
+Volvo,XC60 T5 Momentum AWD,2020,"23,610","$38,136 ",843,Mendon,MA
+Jeep,Cherokee Trailhawk 4WD,2015,"79,535","$19,895 ",461,Northborough,MA
+Nissan,Rogue SV AWD,2023,"1,694","$32,888 ",706,Westminster,VT
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Westminster,VT
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Westminster,VT
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Middletown,RI
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Warwick,RI
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Nashua,NH
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Abington,MA
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Salem,NH
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Seekonk,MA
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Beverly,MA
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Westborough,MA
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Plymouth,MA
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Milford,MA
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Hanover,MA
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Mendon,MA
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Northborough,MA
+Honda,Pilot EX-L AWD,2017,"81,576","$25,987 ",601,Westminster,VT
+Jeep,Cherokee Limited 4WD,2019,"26,510","$27,924 ",617,Westminster,VT
+Honda,CR-V EX-L AWD,2019,"7,963","$30,523 ",674,Westminster,VT
+Honda,Pilot EX-L AWD,2017,"81,576","$25,987 ",601,Middletown,RI
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Warwick,RI
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Nashua,NH
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Abington,MA
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Salem,NH
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Seekonk,MA
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Beverly,MA
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Westborough,MA
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Chelmsford,MA
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Manchester,NH
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Shrewsbury,MA
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Framingham,MA
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Mendon,MA
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Northborough,MA
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Westminster,VT
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Westminster,VT
+RAM,2500 Laramie Crew Cab 4WD,2022,"37,852","$63,595 ","1,391",Westminster,VT
+Nissan,Pathfinder SV 4WD,2018,"85,946","$18,500 ",419,Middletown,RI
+Acura,RDX SH-AWD with Technology Package,2020,"15,386","$39,200 ",867,Warwick,RI
+Jeep,Grand Cherokee Limited 4WD,2021,"13,208","$39,985 ",878,Nashua,NH
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Abington,MA
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Salem,NH
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Seekonk,MA
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Beverly,MA
+Ford,F-150 XL SuperCrew 4WD,2020,"30,421","$35,998 ",796,Westborough,MA
+Ford,F-150 Lariat SuperCrew 4WD,2022,"33,010","$55,688 ","1,218",Portsmouth,NH
+Toyota,Corolla SE FWD,2020,"16,876","$21,999 ",487,Framingham,MA
+Chevrolet,Equinox LT AWD with 1LT,2021,"17,898","$24,277 ",533,Portsmouth,NH
+Cadillac,XT6 Sport AWD,2020,"37,245","$43,200 ",955,Meredith,NH
+Ford,Edge Sport AWD,2016,"66,399","$20,558 ",476,Mendon,MA
+Nissan,Titan SV Crew Cab 4WD,2022,"14,000","$44,500 ",974,Northborough,MA
+Hyundai,Venue SE FWD,2023,"3,257","$21,295 ",457,Westminster,VT
+Ford,EcoSport SE AWD,2022,"5,900","$23,979 ",525,Westminster,VT
+Mercedes-Benz,GLA-Class GLA 250 4MATIC,2016,"81,555","$18,798 ",435,Westminster,VT
+Volvo,XC40 Recharge Pure Electric P8 eAWD,2021,"20,665","$42,495 ",933,Middletown,RI
+Ford,Ranger Lariat SuperCrew 4WD,2021,"30,961","$39,998 ",878,Warwick,RI
+Jeep,Cherokee Limited 4WD,2020,"58,141","$24,497 ",542,Nashua,NH
+Hyundai,Tucson 1.6T Value AWD,2018,"99,645","$17,590 ",398,Abington,MA
+Toyota,Tacoma SR5 V6 Double Cab 4WD,2020,"32,318","$36,495 ",807,Salem,NH
+Jeep,Gladiator Mojave Crew Cab 4WD,2021,"42,951","$43,477 ",955,Seekonk,MA
+Jeep,Grand Cherokee 4xe 4WD,2022,"3,501","$49,999 ","1,094",Beverly,MA
+Subaru,Crosstrek 2.0i Limited AWD,2019,"86,264","$21,110 ",467,Westborough,MA
+Toyota,Camry Hybrid LE FWD,2022,"11,478","$30,998 ",678,Chelmsford,MA
